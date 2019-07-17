@@ -1,0 +1,8 @@
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\bin\Debug\GuardarDatos.exe
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\bin\Debug\GuardarDatos.pdb
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.csprojAssemblyReference.cache
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.Properties.Resources.resources
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.csproj.GenerateResource.cache
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.csproj.CoreCompileInputs.cache
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.exe
+E:\BACKUP\Archivos de vs por algorry\ProgramacionI-master\GuardarDatos\GuardarDatos\obj\x86\Debug\GuardarDatos.pdb
